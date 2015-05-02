@@ -1,0 +1,12 @@
+{
+  "name": "trackitshipit",
+  "dependencies": {
+    "agenda": "^0.6.28",
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3",
+    "mongoose": "^4.0.2",
+    "request": "^2.55.0",
+    "shipping-ups": "^0.4.27",
+    "shipping-usps": "0.0.4"
+  }
+}
